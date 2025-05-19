@@ -1,4 +1,4 @@
-# EX 46 C function to traverse the linked list and display it in the following format.
+saas# EX 46 C function to traverse the linked list and display it in the following format.
 ## DATE:
 ## AIM:
 To write a C function to traverse the linked list and display it in the following format.
