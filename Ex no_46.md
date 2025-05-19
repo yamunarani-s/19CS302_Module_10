@@ -1,15 +1,14 @@
 # EX 46 C function to traverse the linked list and display it in the following format.
-## DATE:
+## DATE: 19/05/25
 ## AIM:
 To write a C function to traverse the linked list and display it in the following format.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
+1. Analyze the question
+2. Follow the algorithm
+3. Try the code
+4.  Check for error
+5. Run & Display the output
 ## Program:
 ```
 /*
@@ -19,9 +18,11 @@ Developed by:
 RegisterNumber:  
 */
 ```
+``
+data1 -> data2 -> data3 -> NULL
 
 ## Output:
-
+data1 data2 data3
 
 
 ## Result:
